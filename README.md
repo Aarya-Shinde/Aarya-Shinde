@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aarya-Shinde.
-- I'm currently interning at Prodigy Infotech and these are my completed tasks.
+- Some code i dabble with
 
 <!---
 Aarya-Shinde/Aarya-Shinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
