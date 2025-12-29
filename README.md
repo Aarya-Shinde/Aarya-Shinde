@@ -6,7 +6,7 @@ A Recent graduate in Artificial Intelligence & Data Science with a strong intere
 - **Portfolio:** [aaryashinde.dev](https://aaryashinde.netlify.app/) 
 - **LinkedIn:** [linkedin.com/in/aarya-shinde](https://www.linkedin.com/in/aarya-shinde-2681a6232/)
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -28,14 +28,7 @@ A Recent graduate in Artificial Intelligence & Data Science with a strong intere
 
 
 ### GitHub Stats
-<!--![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Shinde&show_icons=true&count_private=true&include_all_commits=true&hide=stars&theme=default)  -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Shinde&layout=compact&theme=default)
 
-
-<!-- GitHub Stats with Total Commits & Repos -->
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Shinde&show_icons=true&count_private=false&hide=stars,prs,issues&theme=default)
-
-<!-- Optional fallback for commit graph -->
-![Aarya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aarya-Shinde&theme=github)
-
-
+![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Shinde&show_icons=true&count_private=true&hide=stars,prs,issues&theme=default)
