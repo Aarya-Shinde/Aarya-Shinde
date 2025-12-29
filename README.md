@@ -24,8 +24,7 @@ A Recent graduate in Artificial Intelligence & Data Science with a strong intere
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-[Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-[Scrapy](https://img.shields.io/badge/Scrapy-60A817?style=for-the-badge&logo=scrapy&logoColor=white)
+
 
 
 ### GitHub Stats
