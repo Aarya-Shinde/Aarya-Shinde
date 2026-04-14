@@ -1,9 +1,9 @@
 ## Hi, I'm Aarya Shinde
 
-A Recent graduate in Artificial Intelligence & Data Science with a strong interest in building full-stack web applications and data-driven solutions. I focus on clean code, meaningful design, and real-world impact.
+A graduate in Artificial Intelligence & Data Science with a strong interest in building full-stack web applications and data-driven solutions. I focus on clean code, meaningful design, and real-world impact.
 
 ### Connect
-- **Portfolio:** [aaryashinde.dev](https://aaryashinde.netlify.app/) 
+- **Portfolio:** [aaryashinde.com](https://aaryashinde.netlify.app/) 
 - **LinkedIn:** [linkedin.com/in/aarya-shinde](https://www.linkedin.com/in/aarya-shinde-2681a6232/)
 
 ###  Tech Stack
