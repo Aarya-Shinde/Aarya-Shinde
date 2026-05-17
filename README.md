@@ -30,6 +30,12 @@ A graduate in Artificial Intelligence & Data Science with a strong interest in b
 
 ### GitHub Stats
 
+![Profile Views](https://komarev.com/ghvc/?username=Aarya-Shinde&label=Profile%20Views&color=bf9456&style=flat-square)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aarya-Shinde&theme=dracula&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Shinde&theme=tokyonight&hide_border=true&background=20232a&ring=bf9456&fire=bf9456)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Shinde&layout=compact&theme=default)
 
 ![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Shinde&show_icons=true&count_private=true&hide=stars,prs,issues&theme=default)
