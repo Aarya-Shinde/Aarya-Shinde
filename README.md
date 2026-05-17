@@ -36,6 +36,6 @@ A graduate in Artificial Intelligence & Data Science with a strong interest in b
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Shinde&theme=tokyonight&hide_border=true&background=20232a&ring=bf9456&fire=bf9456)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Shinde&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-Shinde&layout=compact&theme=tokyonight&title_color=bf9456&icon_color=bf9456&hide_border=true&bg_color=20232a)
 
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Shinde&show_icons=true&count_private=true&hide=stars,prs,issues&theme=default)
+![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarya-Shinde&show_icons=true&count_private=true&hide=stars,prs,issues&theme=tokyonight&title_color=bf9456&icon_color=bf9456&text_color=ffffff&hide_border=true&bg_color=20232a)
