@@ -3,8 +3,8 @@
 A graduate in Artificial Intelligence & Data Science with a strong interest in building full-stack web applications and data-driven solutions. I focus on clean code, meaningful design, and real-world impact.
 
 ### Connect
-- **Portfolio:** [aaryashinde.com](https://aaryashinde.netlify.app/) 
-- **LinkedIn:** [linkedin.com/in/aarya-shinde](https://www.linkedin.com/in/aarya-shinde-2681a6232/)
+- **Portfolio:** [Aarya Shinde](https://aaryashinde.netlify.app/) 
+- **LinkedIn:** [Linked page](https://www.linkedin.com/in/aarya-shinde-v/)
 
 ###  Tech Stack
 
@@ -31,8 +31,6 @@ A graduate in Artificial Intelligence & Data Science with a strong interest in b
 ### GitHub Stats
 
 ![Profile Views](https://komarev.com/ghvc/?username=Aarya-Shinde&label=Profile%20Views&color=bf9456&style=flat-square)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aarya-Shinde&theme=dracula&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aarya-Shinde&theme=tokyonight&hide_border=true&background=20232a&ring=bf9456&fire=bf9456)
 
